@@ -96,7 +96,7 @@
   text-transform: uppercase;
   letter-spacing: 0.3em;
   color: #fff;
-  margin-bottom: 110px;
+  margin-bottom: 115px;
   z-index: 1;
 }
 
@@ -143,10 +143,12 @@
 
 .aligned-text_center {
   text-align: center;
+  margin-bottom: -15px;
 }
 
 .aligned-text_right {
   text-align: right;
+  margin-bottom: 13px;
 }
 
 .letter-spacing-extended {
